@@ -10,5 +10,5 @@ ipykernel
 huggingface_hub
 numpy==1.23.4
 llama-cpp-python==0.1.78
-
+flask
 -e .

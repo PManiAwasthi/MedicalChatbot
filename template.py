@@ -13,7 +13,7 @@ list_of_files = [
     "experiments/experiment.ipynb",
     "app.py",
     "store_index.py",
-    "static/.gitkeep",
+    "static/style.css",
     "templates/chat.html"
 ]
 
